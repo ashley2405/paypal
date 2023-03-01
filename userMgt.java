@@ -1,5 +1,7 @@
-landmark
-simon
+ landmark
+mercy
 dominion
 paul
 hope
+datti
+love
